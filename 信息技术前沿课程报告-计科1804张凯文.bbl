@@ -1,0 +1,45 @@
+\begin{thebibliography}{1}
+
+\bibitem{KumarA}
+Munish Kumar and Simpel~Rani Jindal.
+\newblock A study on recognition of pre-segmented handwritten multi-lingual
+  characters.
+\newblock {\em Archives of Computational Methods in Engineering}.
+
+\bibitem{Wang2014An}
+Yanwei Wang, Li~Xin, Changsong Liu, Xiaoqing Ding, and Youxin Chen.
+\newblock An mqdf-cnn hybrid model for offline handwritten chinese character
+  recognition.
+\newblock 2014.
+
+\bibitem{zhangxiuling}
+张秀玲, 周凯旋, 魏其珺, and 董逍鹏.
+\newblock 多通道交叉融合的深度残差网络脱机手写汉字识别.
+\newblock {\em 小型微型计算机系统}, 40(10), 2019.
+
+\bibitem{yangjie}
+杨佶.
+\newblock {\em 基于深度学习的手写汉字识别技术研究}.
+\newblock PhD thesis, 沈阳师范大学, 2019.
+
+\bibitem{shixin}
+石鑫, 董宝良, and 王俊丰.
+\newblock 基于crnn的中文手写识别方法研究.
+\newblock {\em 信息技术}, 2019.
+
+\bibitem{zhubo}
+竺博, 吴嘉嘉, 何春江, and 胡金水.
+\newblock 人工智能在手写文档识别分析中的技术演进.
+\newblock {\em 电子测试}, (13):5--8, 2019.
+
+\bibitem{zhengpeng}
+郑鹏.
+\newblock {\em 基于深度学习的脱机手写体汉字识别研究}.
+\newblock PhD thesis, 广西大学, 2019.
+
+\bibitem{huangyang}
+黄洋.
+\newblock {\em 基于深度学习的脱机手写汉字识别技术研究}.
+\newblock PhD thesis, 重庆邮电大学, 2019.
+
+\end{thebibliography}
